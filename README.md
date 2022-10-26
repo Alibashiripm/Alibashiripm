@@ -1,2 +1,4 @@
 ali bashiri
-backend developer
+junior backend developer
+.net developer
+asp.net core
